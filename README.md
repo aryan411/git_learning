@@ -6,3 +6,4 @@ git
 - feature/two commit 1
 - feature/two commit 2
 - feature one
+- feature two
