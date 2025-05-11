@@ -7,3 +7,5 @@ git
 - feature/two commit 2
 - feature one
 - feature two
+- feature tree
+- feature four 
